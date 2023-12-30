@@ -1,4 +1,4 @@
-![Alt Text](images/banner.png)
+![Alt Text](images/github-banner.png)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=merndevreza&theme=dark)](https://git.io/streak-stats)
 
