@@ -28,5 +28,7 @@ Hey, I'm a Front-end Web developer with a passion for building websites using Re
 
 [![My Skills](https://skillicons.dev/icons?i=js,react,next,express,mongo)](https://skillicons.dev)
 
+[![My Skills](https://skillicons.dev/icons?i=git,firebase,vercel)](https://skillicons.dev)
+
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=merndevreza)](https://github.com/merndevreza/github-readme-stats)
 </div> 
