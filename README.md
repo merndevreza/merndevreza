@@ -1,6 +1,6 @@
 <h2 align="center">Hi there! I am Rezaul Karim 👋</h2>
 
-![Alt Text](images/banner-2.png)
+![Alt Text](images/github-banner.png)
 
 <p align="center">
   <a href="https://webdevreza.com">
