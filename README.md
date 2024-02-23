@@ -30,5 +30,5 @@
 
 [![My Skills](https://skillicons.dev/icons?i=git,firebase,vercel)](https://skillicons.dev)
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=merndevreza)](https://github.com/merndevreza/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=merndevreza&layout=compact)
 </div> 
