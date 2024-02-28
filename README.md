@@ -24,13 +24,13 @@
 
 ## ⚔️ Skills & Expertise
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,mui,figma)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,mui)](https://skillicons.dev) 
 
 [![My Skills](https://skillicons.dev/icons?i=js,react,next,express,mongo)](https://skillicons.dev)
-<img width="48px" style="border-radius:12px;margin-left:4px" src="./images/react-router-2.png" /><img width="46px" style="border-radius:12px;margin-left:7px" src="./images/Kqxbl5Q.png" />
+<img width="55px" src="./images/react-router-dom.svg" /><img width="54px" src="./images/react-query.svg" />
 
 [![My Skills](https://skillicons.dev/icons?i=git,firebase,npm)](https://skillicons.dev)
-<img width="48px" style="border-radius:12px;margin-left:4px" src="./images/axios-1.png" />
+<img width="55px"  src="./images/axios-icon.svg" />
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=merndevreza&layout=compact)
 </div> 
