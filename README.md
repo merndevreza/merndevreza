@@ -24,7 +24,7 @@
 
 ## ⚔️ Skills & Expertise
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,mui)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,mui,figma)](https://skillicons.dev) 
 
 [![My Skills](https://skillicons.dev/icons?i=js,react,next,express,mongo)](https://skillicons.dev)
 <img width="55px" src="./images/react-router-dom.svg" /><img width="54px" src="./images/react-query.svg" />
