@@ -29,7 +29,7 @@
 [![My Skills](https://skillicons.dev/icons?i=js,react,redux)](https://skillicons.dev)
 <img width="55px" src="./images/react-router-dom.svg" /><img width="54px" src="./images/react-query.svg" />
 
-[![My Skills](https://skillicons.dev/icons?i=next,express,mongo)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=next,express,mongo,postman)](https://skillicons.dev)
 <img width="55px"  src="./images/axios-icon.svg" /> 
 
 [![My Skills](https://skillicons.dev/icons?i=git,firebase,npm)](https://skillicons.dev)
