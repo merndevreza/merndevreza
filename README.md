@@ -3,9 +3,6 @@
 ![Alt Text](images/github-banner.png)
 
 <p align="center">
-  <a href="https://webdevreza.com">
-    <img src="./images/link-1.png" />
-  </a> 
   <a href="https://www.linkedin.com/in/webdevreza">
     <img src="./images/link-3.png" />
   </a>
