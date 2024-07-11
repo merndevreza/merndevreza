@@ -1,6 +1,4 @@
-<h2 align="center">Hi there! I am Rezaul Karim 👋</h2>
-
-![Alt Text](images/github-banner.png)
+![Alt Text](images/banner-img.png)
 
 <p align="center">
   <a href="https://www.linkedin.com/in/webdevreza">
@@ -13,15 +11,16 @@
 
 <div align="center">
  
-## 👨‍💻 About me
-<h3>I'm a Front-end developer with a passion for building websites using React.js. My journey in web development began in 2020, and since then, I've been sharpening my skills by learning new technologies and building websites for clients worldwide. I have built 60+ websites as a freelance web developer on Fiverr. I am ready to bring my enthusiasm and expertise to a dynamic team and contribute by delivering quality work.</h3>
+## Hey there 👋
+<p>I'm Rezaul Karim, a Front-end developer with a passion for building websites using React.js and Next.js. My journey in web development began in 2020, and since then, I've been sharpening my skills by learning new technologies and building websites for clients worldwide. I have built 60+ websites as a freelance web developer on Fiverr. I am known for creating reusable components and writing clean, organized
+code, ensuring ease of maintenance for future updates by any developer. </p>
 </div>
 
 <div align="center">
 
 ## ⚔️ Skills & Expertise
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,mui,figma)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,mui)](https://skillicons.dev) 
 
 [![My Skills](https://skillicons.dev/icons?i=js,react,redux)](https://skillicons.dev)
 <img width="55px" src="./images/react-router-dom.svg" /><img width="54px" src="./images/react-query.svg" />
