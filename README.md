@@ -19,14 +19,15 @@ code, ensuring ease of maintenance for future updates by any developer. </p>
 <div align="center">
 
 ## ⚔️ Skills & Expertise
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,mui,figma)](https://skillicons.dev) <img width="57px" src="./images/shadcnui.png" />
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,mui)](https://skillicons.dev) 
 
-[![My Skills](https://skillicons.dev/icons?i=js,react,redux)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=next,react,js,redux)](https://skillicons.dev)
 <img width="55px" src="./images/react-router-dom.svg" /><img width="54px" src="./images/react-query.svg" />
 
-[![My Skills](https://skillicons.dev/icons?i=next,express,mongo,postman)](https://skillicons.dev)
-<img width="55px"  src="./images/axios-icon.svg" /> 
+[![My Skills](https://skillicons.dev/icons?i=express,mongo,postman)](https://skillicons.dev)
+<img width="55px"  src="./images/axios-icon.svg" /> <img width="55px"  src="./images/mongoo.png" /> 
 
 [![My Skills](https://skillicons.dev/icons?i=git,firebase,npm)](https://skillicons.dev)
 
