@@ -1,4 +1,4 @@
-![Alt Text](images/banner-img.png)
+![Alt Text](images/mern-stack-banner.png)
 
 <p align="center">
   <a href="https://www.linkedin.com/in/webdevreza">
@@ -12,7 +12,7 @@
 <div align="center">
  
 ## Hey there 👋
-<p>I'm Rezaul Karim, a Front-end developer with a passion for building websites using React.js and Next.js. My journey in web development began in 2020, and since then, I've been sharpening my skills by learning new technologies and building websites for clients. I have built 40+ websites as a freelance web developer on Fiverr. I am known for creating reusable components and writing clean, organized
+<p>I'm Rezaul Karim, a Front-end focused MERN stack developer with a passion for building websites using Next.js, React, Express, MongoDB and Mongoose. My journey in web development began in 2020, and since then, I've been sharpening my skills by learning new technologies and building websites for clients. I have built 40+ websites as a freelance web developer on Fiverr. I am known for creating reusable components and writing clean, organized
 code, ensuring ease of maintenance for future updates by any developer. </p>
 </div>
 
