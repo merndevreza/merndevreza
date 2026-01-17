@@ -26,7 +26,7 @@ Senior Front-End Developer with **6+ years of professional experience** building
 - Building chat-based interfaces and tools using **Retrieval-Augmented Generation (RAG)**
 - Improving UX through intelligent automation and data-driven workflows
 
-## 🛠 Tech Stack
+## 🛠 Skills
 **Languages & Core**
 - JavaScript (ES6+), TypeScript, HTML5, CSS3
 
