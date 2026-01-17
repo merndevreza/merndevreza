@@ -9,27 +9,53 @@
   </a>
 </p>
 
-<div align="center">
- 
-## Hey there 👋
-<p>I'm Rezaul Karim, a Front-end focused MERN stack developer with a passion for building websites using Next.js, React, Express, MongoDB and Mongoose. My journey in web development began in 2020, and since then, I've been sharpening my skills by learning new technologies and building websites for clients. I have built 40+ websites as a freelance web developer on Fiverr. I am known for creating reusable components and writing clean, organized
-code, ensuring ease of maintenance for future updates by any developer. </p>
-</div>
+# Hi, I’m Rezaul Karim 👋
 
-<div align="center">
+Senior Front-End Developer with **6+ years of professional experience** building **scalable, high-performance web applications**. I specialize in **React.js, Next.js, and TypeScript**, with a strong focus on **frontend architecture, performance, security, and maintainability**.
 
-## ⚔️ Skills & Expertise
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,mui)](https://skillicons.dev) <img width="57px" src="./images/shadcnui.png" />
+## 🧠 What I Work On
+- Building modern web applications with **React, Next.js, and TypeScript**
+- Implementing **secure authentication & authorization** (JWT, cookie-based sessions, NextAuth)
+- Integrating **REST APIs** and handling complex client-side data flows
+- Optimizing applications for **performance, SEO, and accessibility**
+- Convert **Figma designs into pixel-perfect, responsive UIs**
+- Collaborating with backend engineers, designers.
 
+## 🤖 AI & Modern Web
+- Integrating **AI-powered features** into web applications
+- Building chat-based interfaces and tools using **Retrieval-Augmented Generation (RAG)**
+- Improving UX through intelligent automation and data-driven workflows
 
+## 🛠 Tech Stack
+**Languages & Core**
+- JavaScript (ES6+), TypeScript, HTML5, CSS3
 
-[![My Skills](https://skillicons.dev/icons?i=next,react,js,redux)](https://skillicons.dev)
-<img width="55px" src="./images/react-router-dom.svg" /><img width="54px" src="./images/react-query.svg" />
+**Frontend**
+- React.js, Next.js, Redux, Zustand
+- Tailwind CSS, shadcn/ui
+- React Hook Form, Zod
 
-[![My Skills](https://skillicons.dev/icons?i=express,mongo,postman)](https://skillicons.dev)
-<img width="55px"  src="./images/axios-icon.svg" /> <img width="55px"  src="./images/mongoo.png" /> 
+**Auth & APIs**
+- JWT (cookie/session-based)
+- NextAuth
+- RESTful APIs
 
-[![My Skills](https://skillicons.dev/icons?i=git,firebase,npm,figma)](https://skillicons.dev)
+**Backend & Data (Working Knowledge)**
+- Node.js, Express.js
+- MongoDB, Mongoose, Prisma
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=merndevreza&layout=compact)
-</div> 
+**Testing & Tooling**
+- Git & GitHub
+- CI/CD workflows
+- Vitest (familiar)
+- Axios, Postman
+
+**Animation & UI**
+- Framer Motion
+- GSAP (familiar)
+
+## 👥 Leadership & Collaboration
+- Led front-end teams and owned architectural decisions
+- Conducted code reviews and enforced best practices
+- Mentored developers on React & Next.js
+- Worked closely with designers and backend teams in cross-functional environments
