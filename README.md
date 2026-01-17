@@ -1,4 +1,4 @@
-![Alt Text](images/mern-stack-banner.png)
+![Alt Text](images/banner-v4.png)
 
 <p align="center">
   <a href="https://www.linkedin.com/in/webdevreza">
