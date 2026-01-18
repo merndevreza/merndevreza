@@ -27,20 +27,16 @@ Senior Front-End Developer with **6+ years of professional experience** building
 - Improving UX through intelligent automation and data-driven workflows
 
 ## 🛠 Skills
-**Languages & Core**
-- JavaScript (ES6+), TypeScript, HTML5, CSS3
-
 **Frontend**
+- JavaScript, TypeScript, HTML, CSS
 - React.js, Next.js, Redux, Zustand
 - Tailwind CSS, shadcn/ui
 - React Hook Form, Zod
-
-**Auth & APIs**
 - JWT (cookie/session-based)
 - NextAuth
 - RESTful APIs
 
-**Backend & Data (Working Knowledge)**
+**Backend**
 - Node.js, Express.js
 - MongoDB, Mongoose, Prisma
 
@@ -50,12 +46,8 @@ Senior Front-End Developer with **6+ years of professional experience** building
 - Vitest (familiar)
 - Axios, Postman
 
-**Animation & UI**
-- Framer Motion
-- GSAP (familiar)
-
 ## 👥 Leadership & Collaboration
 - Led front-end teams and owned architectural decisions
 - Conducted code reviews and enforced best practices
 - Mentored developers on React & Next.js
-- Worked closely with designers and backend teams in cross-functional environments
+- Worked closely with designers and backend teams.
