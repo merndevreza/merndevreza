@@ -11,7 +11,7 @@
 
 # Hi, I’m Rezaul Karim 👋
 
-Senior Front-End Developer with **6+ years of professional experience** building **scalable, high-performance web applications**. I specialize in **React.js, Next.js, and TypeScript**, with a strong focus on **frontend architecture, performance, security, and maintainability**.
+Frontend Developer with 4+ years of experience building modern, scalable web applications using React, Next.js, and TypeScript. Experienced in developing SaaS dashboards, authentication systems, and high-performance user interfaces for production environments. Proven track record of delivering client projects, collaborating with cross-functional teams, and working with US-based remote teams. Strong focus on clean architecture, performance optimization, and maintainable code.
 
 ## 🧠 What I Work On
 - Building modern web applications with **React, Next.js, and TypeScript**
