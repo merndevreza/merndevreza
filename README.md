@@ -1,4 +1,4 @@
-![Alt Text](images/banner-v4.png)
+![Alt Text](images/github-banner.jpg)
 
 <p align="center">
   <a href="https://www.linkedin.com/in/webdevreza">
